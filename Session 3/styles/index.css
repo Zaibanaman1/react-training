@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+    margin: 100px;
+    margin-left: 400px;
+
+
+}
+
+
+
+.container {
+    background-color: #92A7BB;
+    max-width: 400px;
+    justify-content: center;
+    border: solid 5px black;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+
+}
+
+button {
+    border-radius: 15%;
+    height: 1cm;
+    flex-basis: 25%;
+}
+
+
+
+.result {
+    padding-right: 20px;
+    flex-basis: 100%;
+    background-color: #33FFA2;
+    text-align: right;
+    height: 0.7cm;
+
+}
+
+.eq {
+    background-color: #337DFF;
+}
+
+.opr {
+    background-color: #33ECFF;
+}
+
+.del {
+    background-color: #FFE633;
+}
+
+.ce {
+    background-color: #FF6433;
+}
