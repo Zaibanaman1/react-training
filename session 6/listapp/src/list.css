@@ -1,0 +1,30 @@
+.list {
+
+    position: relative;
+    left: 8cm;
+    border: solid 2px black;
+    background-color: #ffffb3;
+    width: fit-content;
+    box-shadow: black;
+    border-radius: 5px;
+}
+
+li {
+    max-width: max-content;
+    border-bottom: 1px solid orange;
+}
+
+table>th {
+    border: 1px solid black;
+
+}
+
+
+
+
+button {
+    width: 1.5cm;
+    background-color:
+        #ffd11a;
+    border-radius: 15px;
+}
