@@ -1,0 +1,23 @@
+.container {
+    border: 2px black solid;
+    position: relative;
+    left: 30%;
+    top: 180px;
+    padding: 25px;
+    align-items: center;
+    width: max-content;
+    background-color: aquamarine;
+}
+
+.displaybox {
+    border: 2px black dotted;
+    margin: 20px;
+    position: relative;
+
+    padding-bottom: 10px;
+    left: 90px;
+    width: max-content;
+    min-width: 2cm;
+    height: 0.4cm;
+    background-color: white;
+}
