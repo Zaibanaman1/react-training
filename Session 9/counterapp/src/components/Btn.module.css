@@ -1,0 +1,19 @@
+button {
+    min-width: 1cm;
+    height: 1cm;
+
+    border-radius: 25px;
+}
+
+#minus {
+    background-color: tomato;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+
+#plus {
+    background-color: yellow;
+    font-size: larger;
+    font-weight: bolder;
+}
